@@ -1,0 +1,26 @@
+{
+  "name": "tunneling-network",
+  "version": "0.0.0",
+  "description": "让node请求突破网络限制",
+  "keywords": [
+    "本地",
+    "本地运行",
+    "访问内网",
+    "远程调试",
+    "proxy",
+    "代理",
+    "local",
+    "local run",
+    "翻墙",
+    "break network restriction",
+    "本地调试"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "*"
+  }
+}
